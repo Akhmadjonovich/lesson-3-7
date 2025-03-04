@@ -1,6 +1,6 @@
 // task 1
 
-/*let pass1 = prompt(`Parol kiriting`);
+let pass1 = prompt(`Parol kiriting`);
 let pass2 = prompt(`Parolni qayta kiriting`);
 alert(`Parol: ${pass1 === pass2}`);
 
